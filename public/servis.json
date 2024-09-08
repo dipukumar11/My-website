@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "title": "Digital Marketing Services",
+      "img": "https://i.ibb.co.com/rMfz9yP/1-K1j-QZZl-Y40-svynv-E93-Lmg.jpg",
+      "description": "Providing professional digital marketing strategies to grow your online presence."
+    },
+    {
+      "id": 2,
+      "title": "Website Development",
+      "img": "https://i.ibb.co.com/MPmd16n/images-5.jpg",
+      "description": "Offering modern and responsive website development solutions for businesses."
+    },
+    {
+      "id": 3,
+      "title": "Graphic Design",
+      "img": "https://i.ibb.co.com/dkn5Zv3/images-6.jpg",
+      "description": "Creating visually appealing graphic designs tailored to your brand’s identity."
+    }
+  ]
